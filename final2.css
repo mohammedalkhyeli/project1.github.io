@@ -1,0 +1,56 @@
+<style>
+body {font-family:Verdana, Arial, sans-serif;
+      background-color: white;
+}
+#wrapper { background-color: brown; 
+           color: yellow;
+           width: 80%;
+		   margin: auto;
+           min-width:940px;
+} 
+#leftcolumn { float: left;
+	          width: 400px;
+} 
+#rightcolumn { margin-left: 500px;
+               background-color: #ffffff;
+               color: red;
+} 
+header { background-color: white;
+        color: gold; 
+        font-size: 150%; 
+        padding-top: 50px;
+     padding-right: 600px;
+    padding-bottom: 150px;
+     padding-left: 50px;
+		background-image: url(video_game.png); 
+		background-repeat: no-repeat;
+		height: 200px;
+}
+h2 { color: #black; 
+     font-family: arial,; Times New Roman
+}
+main { display: block;
+       padding: 10px 10px  15px; 
+} 
+#floatright { margin: 10px;
+             float: right;
+}
+
+#floatleft { marrgin: 10px
+             float: left;
+ }            
+footer {font-size:100%;
+         text-align: right;
+		 clear: right;
+         padding-bottom:20px;
+}
+
+nav { position: none; }
+nav ul { list-style-type: none; 
+         padding: 10px; }
+nav a { text-decoration: none; 
+        padding: 10px;
+        font-weight: bold; 
+        color: gold;
+        }
+</style>
